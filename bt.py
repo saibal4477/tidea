@@ -13,6 +13,7 @@ from enum import Enum
 
 
 
+
 class EventType(Enum):
     NEW_BAR=1
     NEW_TRADE_IDEA=2
